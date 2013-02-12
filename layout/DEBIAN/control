@@ -1,0 +1,9 @@
+Package: com.softboysxp.tallscreen
+Name: Tall Screen
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Force legacy apps to launch in full screen on iPhone 5. (note: this tweak simply forces SpringBoard to treat every app as if it supports tall screen. This may cause some apps to crash or behave strangely. If you need a more sophisiticated per-app switch, check out tweaks such as FullForce for Phone). An SBSettings toggle is also available.
+Maintainer: softboysxp
+Author: softboysxp
+Section: Tweaks
